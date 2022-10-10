@@ -1,1 +1,1 @@
-ARF Engine it's a 3D game engine editor only for a Windows 10 / 11. With it, it's possible create simple 3D games or advanced 3D games with tools Visual Scripting and C# C / C++ without limit for windows 10 / 11 (sorry). 
+ARF Engine it's a 3D game engine only for a Windows 10 / 11. With it, it's possible create simple 3D games or advanced 3D games with tools Visual Scripting and C# C / C++ without limit for windows 10 / 11 (sorry). 
